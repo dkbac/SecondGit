@@ -3,3 +3,5 @@ Un-tracked
 
 
 Now apply the new one and remove the Modified
+
+Now the file already on the Local Repository so I update the file.
