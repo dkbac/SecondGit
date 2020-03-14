@@ -3,3 +3,7 @@ Hahhaha
 Now is the time to commit.
 
 But I updated this file.
+
+Test merge
+
+merge
